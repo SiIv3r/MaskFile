@@ -3,7 +3,7 @@
 ##  What is MaskFile?
 *Hide the true face of your files.* MaskFile disguises the extension of any file, making it appear as something it's not. A harmless image? Or something else? You'll never know until it's too late.
 
-## ⚔ Why Use It?
+## Why Use It?
 - Educate about the dangers of misleading file names. (lol)
 - Test awareness in phishing simulations. (lol x2)
 - Demonstrate how attackers exploit human trust. (lol x3)
