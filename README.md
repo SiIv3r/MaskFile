@@ -12,7 +12,7 @@
 1. Ensure Python 3.6+ is installed.
 2. Clone the repository:
 ```bash
-git clone https://github.com/0xdev9/MaskFile.git
+git clone https://github.com/SiIv3r/MaskFile.git
 cd MaskFile
 ```
 3. Run the tool:
