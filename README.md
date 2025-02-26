@@ -1,6 +1,6 @@
 # 🕶️ MaskFile
 
-## ![MaskFile Tool](tool_image.png)
+## ![MaskFile Tool](imgmaskfile.png)
 
 ## What is MaskFile?
 *Hide the true face of your files.* MaskFile disguises the extension of any file, making it appear as something it's not. A harmless image? Or something else? You'll never know until it's too late.
@@ -38,7 +38,7 @@ Enter the fake extension to display (e.g., jpg, txt, pdf): jpg
 **For educational purposes only.** Do not use this tool for malicious activities. Be the guardian, not the threat.
 
 ## 👤 Author
-0xdev9
+Someone. Or no one.
 
 ---
 
