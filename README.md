@@ -38,7 +38,8 @@ Enter the fake extension to display (e.g., jpg, txt, pdf): jpg
 ## 👤 Author
 Someone. Or no one.
 
----
+
 ![MaskFile Tool](imagetool.png)
+---
 *Some masks are worn for safety. Others for deception. Which one will you choose?*
 
